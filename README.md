@@ -13,6 +13,8 @@ Main Activity
 
 ![alt text](screenshots/img6.png "Main Activity")               ![alt text](screenshots/img10.png "Main Activity") 
 
+![alt text](screenshots/gif.gif "Main Activity") 
+
 
 CARD VIEW ->
 
@@ -25,4 +27,3 @@ CARD VIEW ->
 ![alt text](screenshots/img8.png "Main Activity")             ![alt text](screenshots/img9.png "Main Activity") 
 
 
-![alt text](screenshots/gif.gif "Main Activity") 
