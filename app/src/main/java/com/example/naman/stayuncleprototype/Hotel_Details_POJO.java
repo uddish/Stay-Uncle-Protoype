@@ -11,6 +11,8 @@ public class Hotel_Details_POJO {
         String address;
         int imageId;
         int rent;
+        //Temp name
+        String name
         Boolean wifi;
         Boolean food;
         Boolean parking;
