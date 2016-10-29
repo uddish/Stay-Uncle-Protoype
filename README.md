@@ -1,6 +1,8 @@
 Screenshots For The StayUncle App --->
 
 
+Main Activity
+
 ![alt text](screenshots/img1.png "Main Activity")               ![alt text](screenshots/img2.png "Main Activity") 
 
 
