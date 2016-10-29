@@ -1,6 +1,7 @@
 Screenshots For The StayUncle App --->
 
-
+![alt text](screenshots/gif.gif "Main Activity") 
+git activity 
 Main Activity
 
 ![alt text](screenshots/img1.png "Main Activity")               ![alt text](screenshots/img2.png "Main Activity") 
@@ -13,7 +14,7 @@ Main Activity
 
 ![alt text](screenshots/img6.png "Main Activity")               ![alt text](screenshots/img10.png "Main Activity") 
 
-![alt text](screenshots/gif.gif "Main Activity") 
+
 
 
 CARD VIEW ->
